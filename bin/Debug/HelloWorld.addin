@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Assembly>D:\practice_C#\DemoApi\bin\Debug\DemoApi.dll</Assembly>
+		<ClientId>acf5d712-8c6c-4beb-be55-2346825b53a4</ClientId>
+		<VendorId>RevitAddinWizard</VendorId>
+		<FullClassName>DemoApi.CsAddPanel</FullClassName>
+		<VendorDescription>Your Company Information</VendorDescription>
+	</AddIn>
+</RevitAddIns>

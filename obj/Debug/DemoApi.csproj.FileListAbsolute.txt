@@ -1,0 +1,6 @@
+D:\practice_C#\DemoApi\bin\Debug\DemoApi.dll
+D:\practice_C#\DemoApi\bin\Debug\DemoApi.pdb
+D:\practice_C#\DemoApi\obj\Debug\DemoApi.csproj.AssemblyReference.cache
+D:\practice_C#\DemoApi\obj\Debug\DemoApi.csproj.CoreCompileInputs.cache
+D:\practice_C#\DemoApi\obj\Debug\DemoApi.dll
+D:\practice_C#\DemoApi\obj\Debug\DemoApi.pdb
